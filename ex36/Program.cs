@@ -5,10 +5,10 @@ int max_value = GetNumberFromUser ("Введите максимальное зн
 ///Main///
 int size_array = GetNumberFromUser ("Введите число элементов массива: ", "Ошибка ввода");
 int[] num_array = GetRandomArray(size_array, min_value, max_value);
-PrintConsoleOddIndexNumArray(num_array);
+PrintConsoleSumOddIndexNumArray(num_array);
 ////////
 
-static void PrintConsoleOddIndexNumArray(int[] user_num)
+static void PrintConsoleSumOddIndexNumArray(int[] user_num)
 {
     int temp_index = 0;
     int temp_sum = 0;
