@@ -1,0 +1,15 @@
+C:\Users\Ilya\Desktop\Курсы_gEEK\Sharp_2\ex41\obj\Debug\net6.0\ex41.csproj.AssemblyReference.cache
+C:\Users\Ilya\Desktop\Курсы_gEEK\Sharp_2\ex41\obj\Debug\net6.0\ex41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilya\Desktop\Курсы_gEEK\Sharp_2\ex41\obj\Debug\net6.0\ex41.AssemblyInfoInputs.cache
+C:\Users\Ilya\Desktop\Курсы_gEEK\Sharp_2\ex41\obj\Debug\net6.0\ex41.AssemblyInfo.cs
+C:\Users\Ilya\Desktop\Курсы_gEEK\Sharp_2\ex41\obj\Debug\net6.0\ex41.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\Desktop\Курсы_gEEK\Sharp_2\ex41\bin\Debug\net6.0\ex41.exe
+C:\Users\Ilya\Desktop\Курсы_gEEK\Sharp_2\ex41\bin\Debug\net6.0\ex41.deps.json
+C:\Users\Ilya\Desktop\Курсы_gEEK\Sharp_2\ex41\bin\Debug\net6.0\ex41.runtimeconfig.json
+C:\Users\Ilya\Desktop\Курсы_gEEK\Sharp_2\ex41\bin\Debug\net6.0\ex41.dll
+C:\Users\Ilya\Desktop\Курсы_gEEK\Sharp_2\ex41\bin\Debug\net6.0\ex41.pdb
+C:\Users\Ilya\Desktop\Курсы_gEEK\Sharp_2\ex41\obj\Debug\net6.0\ex41.dll
+C:\Users\Ilya\Desktop\Курсы_gEEK\Sharp_2\ex41\obj\Debug\net6.0\refint\ex41.dll
+C:\Users\Ilya\Desktop\Курсы_gEEK\Sharp_2\ex41\obj\Debug\net6.0\ex41.pdb
+C:\Users\Ilya\Desktop\Курсы_gEEK\Sharp_2\ex41\obj\Debug\net6.0\ex41.genruntimeconfig.cache
+C:\Users\Ilya\Desktop\Курсы_gEEK\Sharp_2\ex41\obj\Debug\net6.0\ref\ex41.dll
