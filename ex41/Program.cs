@@ -31,7 +31,6 @@ static void PrintToConsole(String user_string)
 static float [] GetUserNumArray (int size_array)
 {
     int temp_index = 0;
-    float temp_num = 0;
     float []user_array = new float [size_array];
     while(temp_index < user_array.Length)
     {
