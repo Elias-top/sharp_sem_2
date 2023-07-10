@@ -50,7 +50,7 @@ static int [,,] GetUserNumArray (int first_size, int second_size, int third_size
             {
                 while (temp_res == -1)
                 {
-                    num_rand = new Random().Next(1, 100);
+                    num_rand = new Random().Next(10, 100);
                     temp_res = CheckExistNumArray(user_array, num_rand);
                 }
                 user_array[i, j, k] = num_rand;
