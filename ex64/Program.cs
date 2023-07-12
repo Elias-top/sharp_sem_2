@@ -2,16 +2,16 @@
 int user_num = 0;
 
 user_num = GetNumberFromUser("Задайте число N", "Ошибка ввода");
-GetNaturalNumArray(user_num);
+PrintNaturalNumArray(user_num);
 
-static int GetNaturalNumArray(int num)
+static int PrintNaturalNumArray(int num)
 {
     if(num == 0)
         return 1;
 
     Console.Write($"{num}, ");
 
-    return GetNaturalNumArray(num - 1);
+    return PrintNaturalNumArray(num - 1);
 }
 
 static int GetNumberFromUser (String msg, String msg_error)
